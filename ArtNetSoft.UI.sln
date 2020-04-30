@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtNetSoft.UI.WPF", "ArtNetSoft.UI.WPF\ArtNetSoft.UI.WPF.csproj", "{4A042D10-D980-4681-B07E-EA2C1468D0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev", "Dev\Dev.csproj", "{4F227533-38BC-45FD-93A1-D83AEE17BA8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A042D10-D980-4681-B07E-EA2C1468D0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A042D10-D980-4681-B07E-EA2C1468D0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A042D10-D980-4681-B07E-EA2C1468D0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A042D10-D980-4681-B07E-EA2C1468D0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F227533-38BC-45FD-93A1-D83AEE17BA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F227533-38BC-45FD-93A1-D83AEE17BA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F227533-38BC-45FD-93A1-D83AEE17BA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F227533-38BC-45FD-93A1-D83AEE17BA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91939A3E-C369-459A-BDF6-5F58A0FBEE4C}
+	EndGlobalSection
+EndGlobal
